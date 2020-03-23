@@ -1,5 +1,5 @@
 REPOSITORY  ANALISIS ALGORITMA
 
-Nama	: Alvin
-NPM		: 140810180013
-Kelas	: A
+Nama	: Alvin<br>
+NPM	: 140810180013<br>
+Kelas	: A<br>
